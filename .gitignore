@@ -57,3 +57,14 @@ docs/_build/
 target/
 
 .DS_Store
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Django
+db.sqlite3
+
+# OS files
+.DS_Store
+
